@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Simple SMS App - HackerNews"
 comments: true
-tags: [sms,mqtt,iot,hn,hackernews]
+tags: [sms,mqtt,iot,hackernews]
 ---
 
 As I was sitting around I wondered what the top post in HackerNews was. Sure, I could have installed one of hundreds, or thousands, of apps or news readers. I could have even fired up my mobile browser or navigated via a bookmark. However, I wanted to see what it'd take to create an SMS wrapper around HN. Why? More like, why not?!
@@ -25,8 +25,8 @@ I use [HackerSharp](https://github.com/neilkennedy/HackerSharp/) to fetch the Ha
 
 That's all there is to it. The only special sauce there is shortening URLs so I don't waste precious SMS space and _"x\.Title\.Head\(30\)"_ \(it gets the first 30 characters and adds ellipsis if needed\). Here's what I got when I sent _hn top_ when writing this.
 
-	MiniLock \- File encryption...
+	MiniLock - File encryption...
 	http://goo.gl/7XRRKB
-	76 pts \- poolpool | 25 comments
+	76 pts - poolpool | 25 comments
 
 \- Dariel Marlow

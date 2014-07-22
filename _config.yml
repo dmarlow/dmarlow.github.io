@@ -6,8 +6,8 @@ description:
 url: http://dmarlow.github.io
 title: Dariel Marlow
 subtitle: I never finish anyth
-#gravatar_url: http://www.gravatar.com/avatar/3c4e7f8b11f8b8c1d77ebb70678097b4?s=128
-#subscribe_rss: http://feeds.feedburner.com/DavidEbbo
+#gravatar_url: 
+#subscribe_rss: 
 encoding: utf-8
 
 # Github repositories
@@ -23,8 +23,8 @@ disqus_short_name: dmarlow
 disqus_show_comment_count: true
 
 # Google Analytics
-#google_analytics_tracking_id: UA-9774206-2
-#google_analytics_domain: davidebbo.com
+#google_analytics_tracking_id: 
+#google_analytics_domain: 
 
 
 #

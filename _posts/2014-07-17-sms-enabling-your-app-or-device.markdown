@@ -36,7 +36,7 @@ When you click on the connection example, you're shown this:
 
 <script src="https://gist.github.com/dmarlow/4784d2080db9c7a51590.js"></script>
 
-It's basically a "ready to copy & paste" python version. A C# version is available on GitHub.
+It's basically a "ready to copy & paste" python version. A C# version is available on [GitHub](https://github.com/dmarlow/Sms2Mqtt/blob/master/src/Sms2Mqtt/Program.cs).
 
 Finally, there's a section to configure what you want your app/device to receive. Depending on your plan, you can choose only the phone numbers that are allowed to send commands. You can test things out before hitting "Add" as well.
 
