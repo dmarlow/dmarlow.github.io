@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating a Simple SMS App - HackerNews"
+title: "Creating a Simple SMS App - HackerNews (hn)"
 comments: true
 tags: [sms,mqtt,iot,hackernews]
 ---
