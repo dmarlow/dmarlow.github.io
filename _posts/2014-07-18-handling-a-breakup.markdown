@@ -5,7 +5,7 @@ comments: true
 tags: [sms,mqtt,iot]
 ---
 
-Let's face it, everything must come to an end. Even that MQTT connection of yours will eventually break up with you disconnect. In the world of MQTT, the client connects to the server. So, in the event of an inevitable disconnect, what should your client do? Grab some ice-cream and hunker down in bed waiting for the server to come crawling back? No, it's got to go out into the world and figure things out. So, how should it do it?
+Let's face it, everything must come to an end. Even that MQTT connection of yours will eventually <del>break up with you</del> disconnect. In the world of MQTT, the client connects to the server. So, in the event of an inevitable disconnect, what should your client do? Grab some ice-cream and hunker down in bed waiting for the server to come crawling back? No, it's got to go out into the world and figure things out. So, how should it do it?
 
 ## The Solution
 The answer is: well, it depends. What sort of client are you? One who is power/CPU constrained or not? One who crumbles at the sight of a disconnection? Here are some strategies for handling disconnection.
