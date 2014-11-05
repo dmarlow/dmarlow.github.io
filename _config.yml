@@ -31,8 +31,7 @@ google_analytics_domain: dmarlow.github.io
 # Jekyll Settings
 #
 markdown: redcarpet
-pygments: false
-highlighter: rouge
+highlighter: none
 permalink: /:year/:month/:title.html
 paginate: 20
 paginate_path: "page/:num"
